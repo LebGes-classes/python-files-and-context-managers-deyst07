@@ -50,7 +50,7 @@ def main() -> None:
 
         else:
             
-            rint("Неверный ввод. Попробуйте снова.")
+            print("Неверный ввод. Попробуйте снова.")
 
     menu = Menu(manager, storage)
     menu.run()
