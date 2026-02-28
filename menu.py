@@ -71,11 +71,11 @@ class Menu:
             
             return
 
-        print("\n" + "=" * 130)
+        print("\n" + "=" * 180)
         print(
             "№ | ID    | Наименование                           | Кол-во | Состояние        | Поставщик               | Производитель      | Цена   | Место       | Город"
         )
-        print("=" * 130)
+        print("=" * 180)
 
         number = 1
 
@@ -94,7 +94,7 @@ class Menu:
             )
             number += 1
 
-        print("=" * 130)
+        print("=" * 180)
 
     def add_product(self) -> None:
         """

@@ -328,16 +328,5 @@
         "price": 600.0,
         "location": "Склад",
         "city": "Тольятти"
-    },
-    {
-        "id": "T031",
-        "name": "афыаф",
-        "quantity": 1321231,
-        "condition": "Новое",
-        "supplier": "вфвф",
-        "manufacturer": "афаф",
-        "price": 321.0,
-        "location": "вфв",
-        "city": "Ка"
     }
 ]
