@@ -45,10 +45,12 @@ def main() -> None:
         elif choice == "3":
             
             print("Создана пустая база.")
+            
             is_running = False
 
         else:
-            print("Неверный ввод. Попробуйте снова.")
+            
+            rint("Неверный ввод. Попробуйте снова.")
 
     menu = Menu(manager, storage)
     menu.run()
